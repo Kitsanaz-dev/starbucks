@@ -63,9 +63,15 @@ class StarbucksThirdPage extends StatelessWidget {
               fontWeight: FontWeight.bold,
             ),
             tabs: [
-              Tab(text: "전체 메뉴"),
-              Tab(text: "나만의 메뉴"),
-              Tab(text: "🎂 홀케이크"),
+              Tab(
+                text: "전체 메뉴",
+              ),
+              Tab(
+                text: "나만의 메뉴",
+              ),
+              Tab(
+                text: "🎂 홀케이크",
+              ),
             ],
           ),
         ),
@@ -119,10 +125,14 @@ class StarbucksThirdPage extends StatelessWidget {
             ),
 
             //My own menu
-            Center(child: Text("나만의 메뉴")),
+            Center(
+              child: Text("나만의 메뉴"),
+            ),
 
             //My own menu whole cake reservation
-            Center(child: Text("홀케이크 예약")),
+            Center(
+              child: Text("홀케이크 예약"),
+            ),
           ],
         ),
       ),

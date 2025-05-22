@@ -55,7 +55,7 @@ class StarbucksSecondPage extends StatelessWidget {
               },
             ),
           ),
-          
+
           // Coupon & e-Gift Item
           Container(
             height: 72,
