@@ -60,8 +60,6 @@ class _StarbucksState extends State<Starbucks> {
           BottomNavigationBarItem(icon: Icon(Icons.more_horiz), label: ""),
         ],
 
-//revert test
-
       ),
     );
   }
