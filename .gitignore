@@ -42,5 +42,4 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 /lib/ignoretest
-/lib/supersecret
-/lib/supersecret
+/lib/secret
