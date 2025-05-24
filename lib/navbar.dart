@@ -60,10 +60,6 @@ class _StarbucksState extends State<Starbucks> {
           BottomNavigationBarItem(icon: Icon(Icons.more_horiz), label: ""),
         ],
 
-
-        //gitlens commit test
-
-
       ),
     );
   }
