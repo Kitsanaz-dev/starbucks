@@ -52,6 +52,7 @@ class _StarbucksState extends State<Starbucks> {
         backgroundColor: Colors.white.withOpacity(0.8),
 
         //Necessary for bottomNavigationBar Widget
+        //to add image to notion
         items: [
           BottomNavigationBarItem(icon: Icon(Icons.home), label: ""),
           BottomNavigationBarItem(icon: Icon(Icons.credit_card_rounded), label: ""),
