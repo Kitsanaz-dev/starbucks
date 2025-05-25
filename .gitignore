@@ -43,3 +43,5 @@ app.*.map.json
 /android/app/release
 /lib/ignoretest
 /lib/secret
+lib/secret/kuy.txt
+/lib/secret
